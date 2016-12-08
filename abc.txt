@@ -3,3 +3,5 @@ bbbb
 ccccc
 test
 test2
+
+コマンドラインでGIT
