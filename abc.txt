@@ -7,3 +7,6 @@ test2
 コマンドラインでGIT
 
 america
+Hello
+
+wao
